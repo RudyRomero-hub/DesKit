@@ -1,0 +1,58 @@
+
+DesKit is an open source project for developers to share their design ideas and code on various parts of a website and how those parts can be built.
+These parts range from headers, about sections, features sections, our team sections, footer, products section, login and sign up forms and many
+many more.
+
+
+Please follow the following instructions for the purposes of organization and efficiency by other developers who might be interested in your code
+
+1. Create a folder and name it after the section you are designing followed by your name, for example, if you are designing a header and 
+   your name is Chris, you can name the folder as header_chris.
+
+2. Make sure you have an index.html file where others will be seeing your output for the purposes of inspiration in their future projects, correction e.t.c
+
+3. NOTE::::YOU ARE ONLY ALLOWED TO USE:
+
+	HTML 5
+	CSS3
+	JAVASCRIPT
+	JQUERY
+	BOOTSTRAP
+	if you are using other design libraries like caurosel libraries and such, please make sure you create a readme.txt or readme.md explaining
+	how one can get started with such libraries
+4. We really advice you to create a branch and work inside it then once done, push the branch to the remote repository where it will be 
+	merged with the main branch.
+      
+5. Make sure your creations are responsive.	
+
+
+	================================================================================================================================================
+	=		 FOLLOW THESE EASY STEPS IF YOU HAVE NEVER COLLABORATED BEFORE:::::
+	=		ensure you have git installed locally on your machine
+ 	=		1. Fork the project so that it gets copied to your git hub account.
+ 	=		2. Move into the project folder and create a branch as shown:
+	=				git branch -m <branch name>  so that if you want your branch to be called heade_chris you will:
+	=				git branch -m "header_chris"
+ 	=		3. Make sure you are in your branch using the following command:
+	=				git checkout header_chris 
+	=               4.Add your git hub username and link to the contributors.md file in the format shown below
+	=                     -[@git hub username] (link to the github profile)
+	=                     -[@codeme254] (https://github.com/codeme254)
+ 	=		5.Work on your idea.
+ 	=		6.Add your changes 
+	=				git add .
+ 	=		7. Commit your changes.
+	=				git commit -m "created a header section of a website"
+ 	=		8. Push the changes to remote branch using the follwing command
+	=				git push origin <branch name>
+	=       			git push origin header_chris
+ 	=		9. Finally, make a pull request, and tag the maintainer of the code in your pull request
+   	=		 Note that the maintainer is codeme254
+	=				sample pull request with a tag:  please review and merge my code @codeme254
+	================================================================================================================================================
+
+
+	OPTIONAL, INSIDE YOUR FOLDER, YOU CAN CREATE A README.MD FILE AND LEAVE YOUR DETAILS THERE FOR THE PURPOSES OF CONNECTING WITH OTHER DEVELOPERS
+	AND AN OPPORTUNITY FOR SOME FREELANCE JOBS AS SOMEONE MIGHT BE HIGHLY INTERESTED IN YOUR DESIGN AND WANTS IT IN HIS OR HER PRODUCT............
+
+	HAPPY HACKING!!!!!!!
